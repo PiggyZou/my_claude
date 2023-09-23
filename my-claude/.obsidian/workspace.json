@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "88ca2b39da167da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a81d2834a59a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8646b6f1fd4c422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/level1-menu/level2-menu/History of philosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb4a8fad9a67aba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b7dc66b00e9f088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea414750d66f195",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67bca622a6c90ae9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d73e74c079a341c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "right": {
+    "id": "fd192c0fdaddd6e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5059ba81cf75c688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09402ec1588748be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "philosophy/level1-menu/level2-menu/History of philosophy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c480668288c8fbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "philosophy/level1-menu/level2-menu/History of philosophy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cb37bcc425a7dcb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33bebada35c44b65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "philosophy/level1-menu/level2-menu/History of philosophy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c8646b6f1fd4c422",
+  "lastOpenFiles": [
+    "philosophy/asset/西方哲学史 上.pdf",
+    "philosophy/asset/西方哲学史 下.pdf",
+    "philosophy/level1-menu/level2-menu/History of philosophy.md",
+    "philosophy/asset/苏菲的世界.pdf",
+    "philosophy/asset",
+    "philosophy/level1-menu/Introduction to Philosophy.md",
+    "philosophy/philosophy-main-menu.md",
+    "philosophy/level1-menu/level2-menu",
+    "philosophy/level1-menu",
+    "philosophy/未命名.md",
+    "philosophy"
+  ]
+}
